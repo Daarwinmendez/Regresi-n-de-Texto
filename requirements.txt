@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+datasets
+scikit-learn
+transformers
+tensorflow
+keras
+sentencepiece
+openpyxl
+evaluate
+torch
+kagglehub
